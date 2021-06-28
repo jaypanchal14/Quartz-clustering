@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: jaypa
+Build-Jdk: 16.0.1
+Implementation-Title: quartz-scheduler-with-db
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/demo
+Created-By: Maven Integration for Eclipse
+
